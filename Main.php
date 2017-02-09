@@ -2,6 +2,8 @@
 
 namespace EmereTr1;
 
-use
+use pocketmine\plugin\PluginBase;
+use pocketmine\
 
 class Main extends PluginBase implement Listener {
+  
